@@ -359,14 +359,14 @@ OSN,Candidate,Party,EVM Votes,Postal Votes,Total Votes,%,State,Constituency,ST_C
 7,P. RAMACHANDRAN,Independent,1854,9,1863,0.14,Andhra Pradesh,Chittoor,S01,25
 8,A. HEMANTH,Independent,2089,5,2094,0.16,Andhra Pradesh,Chittoor,S01,25
 9,NOTA,None of the Above,20503,53,20556,1.56,Andhra Pradesh,Chittoor,S01,25
-1,KIREN RIJIJU,Bharatiya Janata Party,200499,0,200499,63.66,Arunachal Pradesh,ARUNACHAL WEST,S02,1
-2,NABAM TUKI,Indian National Congress,45938,0,45938,14.59,Arunachal Pradesh,ARUNACHAL WEST,S02,1
-3,SUBU KECHI,People's Party of Arunachal,3983,0,3983,1.26,Arunachal Pradesh,ARUNACHAL WEST,S02,1
-4,JARJUM ETE,Janata Dal  (Secular),35656,0,35656,11.32,Arunachal Pradesh,ARUNACHAL WEST,S02,1
-5,JOMIN NYOKIR KARA,All India Forward Bloc,1479,0,1479,0.47,Arunachal Pradesh,ARUNACHAL WEST,S02,1
-6,KHYODA APIK,National People's Party,24005,0,24005,7.62,Arunachal Pradesh,ARUNACHAL WEST,S02,1
-7,RUMAK JOMOH,Independent,1707,0,1707,0.54,Arunachal Pradesh,ARUNACHAL WEST,S02,1
-8,NOTA,None of the Above,1685,0,1685,0.54,Arunachal Pradesh,ARUNACHAL WEST,S02,1
+1,KIREN RIJIJU,Bharatiya Janata Party,201602,0,201602,63.62,Arunachal Pradesh,ARUNACHAL WEST,S02,1
+2,NABAM TUKI,Indian National Congress,46431,0,46431,14.65,Arunachal Pradesh,ARUNACHAL WEST,S02,1
+3,SUBU KECHI,People's Party of Arunachal,4002,0,4002,1.26,Arunachal Pradesh,ARUNACHAL WEST,S02,1
+4,JARJUM ETE,Janata Dal  (Secular),35816,0,35816,11.3,Arunachal Pradesh,ARUNACHAL WEST,S02,1
+5,JOMIN NYOKIR KARA,All India Forward Bloc,1487,0,1487,0.47,Arunachal Pradesh,ARUNACHAL WEST,S02,1
+6,KHYODA APIK,National People's Party,24093,0,24093,7.6,Arunachal Pradesh,ARUNACHAL WEST,S02,1
+7,RUMAK JOMOH,Independent,1739,0,1739,0.55,Arunachal Pradesh,ARUNACHAL WEST,S02,1
+8,NOTA,None of the Above,1702,0,1702,0.54,Arunachal Pradesh,ARUNACHAL WEST,S02,1
 1,Lowangcha Wanglat,Indian National Congress,80378,3557,83935,28.57,Arunachal Pradesh,ARUNACHAL EAST,S02,2
 2,Mongol Yomso,People's Party of Arunachal,22160,777,22937,7.81,Arunachal Pradesh,ARUNACHAL EAST,S02,2
 3,Tapir Gao,Bharatiya Janata Party,148567,5316,153883,52.38,Arunachal Pradesh,ARUNACHAL EAST,S02,2
@@ -2122,16 +2122,16 @@ OSN,Candidate,Party,EVM Votes,Postal Votes,Total Votes,%,State,Constituency,ST_C
 5,SHAMSHER SINGH,Rashtriya Azad Manch,3209,7,3216,0.35,Himachal Pradesh,Shimla,S08,4
 6,RAVI KUMAR DALIT,Independent,3600,8,3608,0.39,Himachal Pradesh,Shimla,S08,4
 7,NOTA,None of the Above,8305,52,8357,0.91,Himachal Pradesh,Shimla,S08,4
-1,JAHANGIR KHAN,Jammu & Kashmir National Panthers Party,4200,123,4323,0.95,Jammu & Kashmir,Baramulla,S09,1
-2,ABDUL QAYOOM WANI,Jammu & Kashmir Peoples Democratic Party,53300,223,53523,11.81,Jammu & Kashmir,Baramulla,S09,1
-3,HAJI FAROOQ AHMAD MIR,Indian National Congress,34193,292,34485,7.61,Jammu & Kashmir,Baramulla,S09,1
-4,MOHAMMAD AKBAR LONE,Jammu & Kashmir National Conference,132919,457,133376,29.44,Jammu & Kashmir,Baramulla,S09,1
-5,MOHD MAQBOOL WAR,Bharatiya Janata Party,5500,581,6081,1.34,Jammu & Kashmir,Baramulla,S09,1
-6,RAJA AIJAZ ALI,Jammu & Kashmir People Conference,102477,141,102618,22.65,Jammu & Kashmir,Baramulla,S09,1
-7,JAVID AHMAD QURESHI,Independent,3326,51,3377,0.75,Jammu & Kashmir,Baramulla,S09,1
-8,SYED NAJEEB SHAH NAQVI,Independent,4945,19,4964,1.1,Jammu & Kashmir,Baramulla,S09,1
-9,ENGINEER RASHID,Independent,100667,1491,102158,22.55,Jammu & Kashmir,Baramulla,S09,1
-10,NOTA,None of the Above,8055,58,8113,1.79,Jammu & Kashmir,Baramulla,S09,1
+1,JAHANGIR KHAN,Jammu & Kashmir National Panthers Party,4200,123,4329,0.95,Jammu & Kashmir,Baramulla,S09,1
+2,ABDUL QAYOOM WANI,Jammu & Kashmir Peoples Democratic Party,53300,223,53530,11.75,Jammu & Kashmir,Baramulla,S09,1
+3,HAJI FAROOQ AHMAD MIR,Indian National Congress,34193,292,34532,7.58,Jammu & Kashmir,Baramulla,S09,1
+4,MOHAMMAD AKBAR LONE,Jammu & Kashmir National Conference,132919,457,133426,29.29,Jammu & Kashmir,Baramulla,S09,1
+5,MOHD MAQBOOL WAR,Bharatiya Janata Party,5500,581,7894,1.73,Jammu & Kashmir,Baramulla,S09,1
+6,RAJA AIJAZ ALI,Jammu & Kashmir People Conference,102477,141,103193,22.65,Jammu & Kashmir,Baramulla,S09,1
+7,JAVID AHMAD QURESHI,Independent,3326,51,3383,0.74,Jammu & Kashmir,Baramulla,S09,1
+8,SYED NAJEEB SHAH NAQVI,Independent,4945,19,4967,1.09,Jammu & Kashmir,Baramulla,S09,1
+9,ENGINEER RASHID,Independent,100667,1491,102168,22.43,Jammu & Kashmir,Baramulla,S09,1
+10,NOTA,None of the Above,8055,58,8128,1.78,Jammu & Kashmir,Baramulla,S09,1
 1,Sheikh Khalid Jehangir,Bharatiya Janata Party,1962,85,4631,2.48,Jammu & Kashmir,Srinagar,S09,2
 2,Aga Syed Mohsin,Peoples Democratic Party,36609,80,36700,19.64,Jammu & Kashmir,Srinagar,S09,2
 3,Abdual Rashid Ganie,Jammu & Kashmir National Panthers Party,776,9,791,0.42,Jammu & Kashmir,Srinagar,S09,2
@@ -4853,28 +4853,28 @@ OSN,Candidate,Party,EVM Votes,Postal Votes,Total Votes,%,State,Constituency,ST_C
 7,PARBATI PURTY,Independent,13903,32,13935,1.21,Odisha,Mayurbhanj,S18,5
 8,RABINDRA NATH SINGH,Independent,10671,24,10695,0.93,Odisha,Mayurbhanj,S18,5
 9,NOTA,None of the Above,21322,21,21343,1.86,Odisha,Mayurbhanj,S18,5
-1,NAVAJYOTI PATNAIK,Indian National Congress,178859,0,178859,15.5,Odisha,Balasore,S18,6
-2,PRATAP CHANDRA SARANGI,Bharatiya Janata Party,481295,0,481295,41.72,Odisha,Balasore,S18,6
-3,RABINDRA KUMAR JENA,Biju Janata Dal,469877,0,469877,40.73,Odisha,Balasore,S18,6
-4,HAJI SK ABDUL ISTAR,All India Trinamool Congress,3896,0,3896,0.34,Odisha,Balasore,S18,6
-5,MOHAMMED ALLI,Ambedkar National Congress,1349,0,1349,0.12,Odisha,Balasore,S18,6
+1,NAVAJYOTI PATNAIK,Indian National Congress,179070,333,179403,15.49,Odisha,Balasore,S18,6
+2,PRATAP CHANDRA SARANGI,Bharatiya Janata Party,481438,2420,483858,41.79,Odisha,Balasore,S18,6
+3,RABINDRA KUMAR JENA,Biju Janata Dal,470242,660,470902,40.67,Odisha,Balasore,S18,6
+4,HAJI SK ABDUL ISTAR,All India Trinamool Congress,3898,2,3900,0.34,Odisha,Balasore,S18,6
+5,MOHAMMED ALLI,Ambedkar National Congress,1349,7,1356,0.12,Odisha,Balasore,S18,6
 6,RAMAKANTA PANDA,Purvanchal Janta Party (Secular),1241,0,1241,0.11,Odisha,Balasore,S18,6
-7,SUBHASH,Pragatishil Samajwadi Party (Lohia),822,0,822,0.07,Odisha,Balasore,S18,6
-8,JAGANNATH DAS,Independent,813,0,813,0.07,Odisha,Balasore,S18,6
-9,BASANTALATA PATTANAYAK,Independent,1419,0,1419,0.12,Odisha,Balasore,S18,6
-10,JADUNATH SETHI,Independent,1675,0,1675,0.15,Odisha,Balasore,S18,6
-11,RAMANATH BARIK,Independent,2451,0,2451,0.21,Odisha,Balasore,S18,6
-12,SAROJ KUMAR PANDA,Independent,2580,0,2580,0.22,Odisha,Balasore,S18,6
-13,NOTA,None of the Above,7421,0,7421,0.64,Odisha,Balasore,S18,6
-1,AVIMANYU SETHI,Bharatiya Janata Party,475303,3380,478683,39.59,Odisha,Bhadrak,S18,7
-2,TILOTTAMA JENA,All India Trinamool Congress,3279,15,3294,0.27,Odisha,Bhadrak,S18,7
-3,MADHUMITA SETHI,Indian National Congress,203975,576,204551,16.92,Odisha,Bhadrak,S18,7
-4,MANJULATA MANDAL,Biju Janata Dal,504807,1273,506080,41.85,Odisha,Bhadrak,S18,7
-5,MURALIDHAR JENA,Bahujan Samaj Party,4649,14,4663,0.39,Odisha,Bhadrak,S18,7
-6,KIRTAN BIHARI MALIK,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1414,2,1416,0.12,Odisha,Bhadrak,S18,7
-7,LAXMIPRIYA JENA,Kalinga Sena,1539,5,1544,0.13,Odisha,Bhadrak,S18,7
-8,PITAMBAR SETHI,Independent,2544,5,2549,0.21,Odisha,Bhadrak,S18,7
-9,NOTA,None of the Above,6452,11,6463,0.53,Odisha,Bhadrak,S18,7
+7,SUBHASH,Pragatishil Samajwadi Party (Lohia),823,2,825,0.07,Odisha,Balasore,S18,6
+8,JAGANNATH DAS,Independent,813,3,816,0.07,Odisha,Balasore,S18,6
+9,BASANTALATA PATTANAYAK,Independent,1419,3,1422,0.12,Odisha,Balasore,S18,6
+10,JADUNATH SETHI,Independent,1675,1,1676,0.14,Odisha,Balasore,S18,6
+11,RAMANATH BARIK,Independent,2451,3,2454,0.21,Odisha,Balasore,S18,6
+12,SAROJ KUMAR PANDA,Independent,2580,2,2582,0.22,Odisha,Balasore,S18,6
+13,NOTA,None of the Above,7422,14,7436,0.64,Odisha,Balasore,S18,6
+1,AVIMANYU SETHI,Bharatiya Janata Party,476456,3380,479836,39.56,Odisha,Bhadrak,S18,7
+2,TILOTTAMA JENA,All India Trinamool Congress,3287,15,3302,0.27,Odisha,Bhadrak,S18,7
+3,MADHUMITA SETHI,Indian National Congress,205005,576,205581,16.95,Odisha,Bhadrak,S18,7
+4,MANJULATA MANDAL,Biju Janata Dal,506365,1273,507638,41.85,Odisha,Bhadrak,S18,7
+5,MURALIDHAR JENA,Bahujan Samaj Party,4663,14,4677,0.39,Odisha,Bhadrak,S18,7
+6,KIRTAN BIHARI MALIK,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1416,2,1418,0.12,Odisha,Bhadrak,S18,7
+7,LAXMIPRIYA JENA,Kalinga Sena,1543,5,1548,0.13,Odisha,Bhadrak,S18,7
+8,PITAMBAR SETHI,Independent,2549,5,2554,0.21,Odisha,Bhadrak,S18,7
+9,NOTA,None of the Above,6464,11,6475,0.53,Odisha,Bhadrak,S18,7
 1,AMIYA KANTA MALLICK,Bharatiya Janata Party,438171,4156,442327,40.5,Odisha,Jajpur,S18,8
 2,MANAS JENA,Indian National Congress,82834,487,83321,7.63,Odisha,Jajpur,S18,8
 3,SARMISTHA SETHI,Biju Janata Dal,542476,1544,544020,49.81,Odisha,Jajpur,S18,8
