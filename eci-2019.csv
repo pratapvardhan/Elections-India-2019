@@ -15,17 +15,17 @@ OSN,Candidate,Party,EVM Votes,Postal Votes,Total Votes,%,State,Constituency,ST_C
 14,S SUDERSHAN RAO,Independent,475,0,475,0.23,Andaman & Nicobar Islands,Andaman & Nicobar Islands,U01,1
 15,HENRY,Independent,994,0,994,0.48,Andaman & Nicobar Islands,Andaman & Nicobar Islands,U01,1
 16,NOTA,None of the Above,1411,1,1412,0.68,Andaman & Nicobar Islands,Andaman & Nicobar Islands,U01,1
-1,KISHORE CHANDRA DEO,Telugu Desam,336163,0,336163,31.51,Andhra Pradesh,Aruku,S01,1
-2,Dr. KOSURI KASI VISWANADHA VEERA VENKATA SATYANARAYANA REDDY,Bharatiya Janata Party,17578,0,17578,1.65,Andhra Pradesh,Aruku,S01,1
-3,GODDETI. MADHAVI,Yuvajana Sramika Rythu Congress Party,557561,0,557561,52.26,Andhra Pradesh,Aruku,S01,1
-4,SHRUTI DEVI VYRICHERLA,Indian National Congress,17656,0,17656,1.65,Andhra Pradesh,Aruku,S01,1
-5,GANGULAIAH VAMPURU.,Janasena Party,42245,0,42245,3.96,Andhra Pradesh,Aruku,S01,1
-6,SWAMULA. SUBRAHMANYAM,Jana Jagruti Party,4705,0,4705,0.44,Andhra Pradesh,Aruku,S01,1
-7,ANUMULA VAMSIKRISHNA,Independent,10211,0,10211,0.96,Andhra Pradesh,Aruku,S01,1
-8,KANGALA BALUDORA,Independent,13810,0,13810,1.29,Andhra Pradesh,Aruku,S01,1
-9,NARAVA SATYAVATHI,Independent,11231,0,11231,1.05,Andhra Pradesh,Aruku,S01,1
-10,BIDDIKA RAMAYYA.,Independent,7863,0,7863,0.74,Andhra Pradesh,Aruku,S01,1
-11,NOTA,None of the Above,47955,0,47955,4.49,Andhra Pradesh,Aruku,S01,1
+1,KISHORE CHANDRA DEO,Telugu Desam,336163,1938,338101,31.46,Andhra Pradesh,Aruku,S01,1
+2,Dr. KOSURI KASI VISWANADHA VEERA VENKATA SATYANARAYANA REDDY,Bharatiya Janata Party,17578,289,17867,1.66,Andhra Pradesh,Aruku,S01,1
+3,GODDETI. MADHAVI,Yuvajana Sramika Rythu Congress Party,557561,4629,562190,52.32,Andhra Pradesh,Aruku,S01,1
+4,SHRUTI DEVI VYRICHERLA,Indian National Congress,17656,74,17730,1.65,Andhra Pradesh,Aruku,S01,1
+5,GANGULAIAH VAMPURU.,Janasena Party,42245,549,42794,3.98,Andhra Pradesh,Aruku,S01,1
+6,SWAMULA. SUBRAHMANYAM,Jana Jagruti Party,4705,5,4710,0.44,Andhra Pradesh,Aruku,S01,1
+7,ANUMULA VAMSIKRISHNA,Independent,10211,29,10240,0.95,Andhra Pradesh,Aruku,S01,1
+8,KANGALA BALUDORA,Independent,13810,16,13826,1.29,Andhra Pradesh,Aruku,S01,1
+9,NARAVA SATYAVATHI,Independent,11231,5,11236,1.05,Andhra Pradesh,Aruku,S01,1
+10,BIDDIKA RAMAYYA.,Independent,7863,4,7867,0.73,Andhra Pradesh,Aruku,S01,1
+11,NOTA,None of the Above,47955,22,47977,4.46,Andhra Pradesh,Aruku,S01,1
 1,KINJARAPU RAM MOHAN NAIDU,Telugu Desam,529213,5331,534544,46.19,Andhra Pradesh,Srikakulam,S01,2
 2,DOLA JAGAN,Indian National Congress,13456,289,13745,1.19,Andhra Pradesh,Srikakulam,S01,2
 3,DUVVADA SRINIVAS,Yuvajana Sramika Rythu Congress Party,520931,6960,527891,45.61,Andhra Pradesh,Srikakulam,S01,2
@@ -4911,11 +4911,11 @@ OSN,Candidate,Party,EVM Votes,Postal Votes,Total Votes,%,State,Constituency,ST_C
 6,CHHABILAL NIAL,Ambedkarite Party of India,12391,18,12409,1.01,Odisha,Kalahandi,S18,11
 7,HATIRAM DURGA,Independent,9828,8,9836,0.8,Odisha,Kalahandi,S18,11
 8,NOTA,None of the Above,21172,27,21199,1.73,Odisha,Kalahandi,S18,11
-1,CHANDRADHWAJ MAJHI,Bahujan Samaj Party,28128,0,28128,2.44,Odisha,Nabarangpur,S18,12
-2,PRADEEP KUMAR MAJHI,Indian National Congress,348334,0,348334,30.19,Odisha,Nabarangpur,S18,12
-3,BALABHADRA MAJHI,Bharatiya Janata Party,341621,0,341621,29.61,Odisha,Nabarangpur,S18,12
-4,RAMESH CHANDRA MAJHI,Biju Janata Dal,391234,0,391234,33.91,Odisha,Nabarangpur,S18,12
-5,NOTA,None of the Above,44449,0,44449,3.85,Odisha,Nabarangpur,S18,12
+1,CHANDRADHWAJ MAJHI,Bahujan Samaj Party,28189,716,28905,2.49,Odisha,Nabarangpur,S18,12
+2,PRADEEP KUMAR MAJHI,Indian National Congress,349437,1433,350870,30.26,Odisha,Nabarangpur,S18,12
+3,BALABHADRA MAJHI,Bharatiya Janata Party,342510,329,342839,29.56,Odisha,Nabarangpur,S18,12
+4,RAMESH CHANDRA MAJHI,Biju Janata Dal,392481,23,392504,33.85,Odisha,Nabarangpur,S18,12
+5,NOTA,None of the Above,44580,2,44582,3.84,Odisha,Nabarangpur,S18,12
 1,ACHYUTANANDA SAMANTA,Biju Janata Dal,461154,525,461679,49.01,Odisha,Kandhamal,S18,13
 2,Amir Nayak,Bahujan Samaj Party,7289,25,7314,0.78,Odisha,Kandhamal,S18,13
 3,Manoj Kumar Acharya,Indian National Congress,138647,346,138993,14.76,Odisha,Kandhamal,S18,13
